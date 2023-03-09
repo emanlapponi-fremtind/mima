@@ -12,7 +12,7 @@ logger = logging.get_logger(level="INFO", name=__name__)
 app = FastAPI()
 
 try:
-    db = pd.read_csv("db.csv")
+    db = pd.read_csv("db.csv", sep=";")
 except:
     db = pd.DataFrame()
 

@@ -1,20 +1,103 @@
-mood,text,time
-0.2,jeg hater sjefen,2023-03-09 13:29:32.237944
-0.2,jeg hater sjefen,2023-03-09 13:29:52.070441
-0.2,jeg hater sjefen,2023-03-09 13:36:36.559333
-0.2,jeg hater sjefen,2023-03-09 13:36:37.535900
-0.2,jeg hater sjefen,2023-03-09 13:37:05.339984
-0.2,jeg hater sjefen,2023-03-09 13:37:05.918210
-0.6,Halla,2023-03-09 13:37:13.956213
-0.6,Hoi,2023-03-09 13:37:30.612822
-0.2,jeg hater sjefen,2023-03-09 13:41:16.469493
-0.2,jeg hater sjefen,2023-03-09 13:41:17.134688
-0.9,roma juve 1 0,2023-03-09 13:47:02.918250
-0.4,foo,2023-03-09 13:47:15.477077
-0.8,foo,2023-03-09 13:47:19.116919
-0.1,foo,2023-03-09 13:47:21.146043
-0.3,foo,2023-03-09 13:47:23.039487
-0.6,foo,2023-03-09 13:47:24.758962
-0.4,foo,2023-03-09 13:47:25.740407
-0.3,foo,2023-03-09 13:47:26.751108
-0.3,foo,2023-03-09 13:55:33.273001
+mood;text;time
+0.7;Jeg har hatt en god dag på jobb og føler meg produktiv.;2023-03-8 11:48:50.123456
+0.4;Jeg føler meg ikke så bra i dag;2023-03-6 12:29:39.123456
+0.9;Alt går veldig bra for tiden;2023-03-2 15:47:28.123456
+0.3;Jeg har vært litt nedfor i det siste;2023-03-5 07:56:28.123456
+0.6;Jeg har mye å gjøre for øyeblikket;2023-03-1 09:14:43.123456
+0.8;Jeg har en følelse av at ting kommer til å gå bra;2023-03-8 10:00:50.123456
+0.1;Jeg har hatt en tøff dag og føler meg veldig sliten.;2023-03-2 10:51:21.123456
+0.5;Jeg har ikke vært i stand til å sove mye i det siste;2023-03-7 14:56:18.123456
+0.2;Jeg har hatt en vanskelig tid i det siste;2023-03-2 09:05:40.123456
+0.9;Alt går veldig bra for tiden;2023-03-6 08:21:53.123456
+0.7;Jeg har mye å gjøre på jobben;2023-03-2 17:55:03.123456
+0.4;Jeg føler meg litt stresset for øyeblikket;2023-03-6 08:31:10.123456
+0.6;Jeg har hatt noen tøffe dager i det siste;2023-03-2 09:55:05.123456
+0.8;Jeg er i godt humør i dag og ser frem til hva som kommer.;2023-03-3 07:01:03.123456
+0.3;Jeg har hatt en tøff tid i det siste;2023-03-3 15:14:17.123456
+0.5;Jeg føler meg litt trist for øyeblikket;2023-03-4 14:31:54.123456
+0.1;Jeg har hatt en dårlig dag i dag;2023-03-7 09:21:38.123456
+0.9;Jeg har mye å være takknemlig for;2023-03-4 10:53:53.123456
+0.2;Jeg har hatt noen utfordringer i det siste;2023-03-7 09:35:35.123456
+0.7;Jeg har vært veldig produktiv i dag;2023-03-4 14:09:01.123456
+0.4;Jeg har ikke følt meg helt meg selv i det siste;2023-03-6 15:34:33.123456
+0.8;Jeg har en følelse av at ting vil ordne seg;2023-03-8 16:36:12.123456
+0.3;Jeg har hatt noen tøffe dager i det siste;2023-03-2 08:49:11.123456
+0.6;Jeg har en travel uke foran meg;2023-03-2 14:37:15.123456
+0.5;Jeg har hatt noen problemer i det siste;2023-03-8 16:23:23.123456
+0.9;Alt går veldig bra for tiden;2023-03-7 09:12:51.123456
+0.1;Jeg har hatt en vanskelig tid i det siste;2023-03-8 11:36:40.123456
+0.2;Jeg føler meg litt overveldet for øyeblikket;2023-03-5 07:34:56.123456
+0.8712086797098786;Jeg har hatt en fantastisk dag på stranden;2023-03-8 07:54:08.123456
+0.451847625255584;Jeg er litt stresset i dag på grunn av en viktig eksamen i morgen.;2023-03-9 13:25:23.123456
+0.7258908351842386;Alt går bra på jobb;2023-03-5 11:02:45.123456
+0.311628452021866;Jeg har hatt noen problemer med helsen min i det siste;2023-03-8 07:07:16.123456
+0.9201591349615178;Jeg er veldig fornøyd med livet mitt for tiden og ser frem til å se hva fremtiden bringer.;2023-03-7 08:56:53.123456
+0.6329239320175267;Jeg har hatt en vanskelig tid etter et samlivsbrudd;2023-03-1 07:28:11.123456
+0.7932593465127204;Det har vært mye å gjøre på jobben i det siste;2023-03-5 11:11:02.123456
+0.1391108009478498;Jeg har vært syk i flere dager;2023-03-3 10:28:16.123456
+0.25791628500632654;Jeg er veldig spent på en kommende reise jeg skal på;2023-03-5 14:13:54.123456
+0.5408155989797389;Jeg føler meg ganske stresset for tiden;2023-03-8 10:55:10.123456
+0.9588262778766112;Alt går bra på alle fronter;2023-03-4 12:51:34.123456
+0.8831430297320706;Jeg har vært ganske lei meg i det siste;2023-03-6 10:50:32.123456
+0.6456910846833213;Jeg har nettopp fått en ny jobb;2023-03-6 15:42:37.123456
+0.5620299516570466;Det har vært noen utfordringer på jobben i det siste;2023-03-6 13:15:29.123456
+0.04887188302084363;Jeg har slitt med noen personlige problemer;2023-03-1 10:27:54.123456
+0.3783107639803831;Jeg har hatt en travel uke på jobben;2023-03-8 10:34:47.123456
+0.5863977073015249;Det er litt stressende for tiden på grunn av noen endringer på jobben;2023-03-2 16:47:01.123456
+0.20273198663202478;Jeg føler meg litt nedstemt i dag;2023-03-3 14:46:11.123456
+0.7348749341185514;Jeg har hatt en fin helg og føler meg ganske bra for tiden.;2023-03-9 10:17:48.123456
+0.6209629644915723;Jeg har hatt noen personlige problemer i det siste;2023-03-3 09:29:14.123456
+0.4064223170377044;Jeg har hatt en tøff uke på jobben;2023-03-9 07:18:41.123456
+0.03541612663061719;Jeg føler meg litt stresset for t;2023-03-8 12:24:14.123456
+0.8;Jeg har det ganske bra i dag;2023-03-4 07:50:37.123456
+0.2;Jeg har hatt en tøff dag og føler meg litt nedstemt.;2023-03-4 08:58:23.123456
+0.9;Alt går bra her! Jeg er glad og takknemlig for alt jeg har i livet.;2023-03-2 12:29:20.123456
+0.5;Jeg er ikke helt sikker på hvordan jeg har det. Noen dager er bedre enn andre.;2023-03-3 16:16:14.123456
+0.7;Jeg føler meg bra i dag og ser frem til å tilbringe tid med venner senere.;2023-03-7 08:44:32.123456
+0.3;Jeg har hatt en stressende uke på jobb og føler meg litt utbrent.;2023-03-8 07:14:23.123456
+0.8;Jeg har endelig fått tak i drømmejobben min og kan ikke vente med å komme i gang.;2023-03-5 10:27:51.123456
+0.4;Jeg har hatt en slitsom dag og vil bare legge meg og sove.;2023-03-6 07:44:22.123456
+0.9;Alt går veldig bra for tiden;2023-03-2 13:07:52.123456
+0.2;Jeg har følt meg litt ensom i det siste og savner virkelig å ha noen å snakke med.;2023-03-4 13:21:43.123456
+0.6;Jeg har hatt noen problemer på jobben;2023-03-9 07:08:35.123456
+0.5;Jeg har vært syk de siste dagene og føler meg ikke helt på topp.;2023-03-4 11:32:54.123456
+0.1;Jeg har slitt med å finne motivasjonen til å gjøre noe i det siste.;2023-03-7 15:24:31.123456
+0.9;Jeg har nettopp fått beskjed om at jeg har fått drømmeleiligheten min;2023-03-1 07:28:19.123456
+0.7;Jeg har hatt en travel dag;2023-03-3 13:49:11.123456
+0.3;Jeg føler meg litt trist i dag;2023-03-3 07:01:25.123456
+0.8;Jeg har jobbet hardt for å nå målene mine;2023-03-5 08:28:02.123456
+0.4;Jeg har hatt noen problemer i forholdet mitt;2023-03-1 15:35:36.123456
+0.9;Jeg er så glad for å ha en god støttegruppe rundt meg i livet mitt.;2023-03-3 17:02:15.123456
+0.2;Jeg har hatt noen helseproblemer i det siste;2023-03-4 14:18:40.123456
+0.6;Jeg har hatt en travel uke;2023-03-6 12:05:28.123456
+0.5;Jeg føler meg litt overveldet av alt som skjer i livet mitt for tiden.;2023-03-7 15:05:19.123456
+0.1;Jeg har vært litt lei meg i det siste og har slitt med å finne glede i tingene jeg pleier å like.;2023-03-6 10:22:20.123456
+0.9;Jeg har endelig fått tilbake kontrollen over livet mitt;2023-03-3 13:43:19.123456
+0.7;Jeg har møtt noen nye mennesker i det siste som virkelig har beriket livet mitt.;2023-03-2 10:36:26.123456
+0.3;Jeg har hatt noen problemer med familien min;2023-03-6 17:02:55.123456
+0.8;Jeg har lært mye de siste ukene;2023-03-8 17:48:12.123456
+0.4;Jeg føler meg litt usikker på veien videre;2023-03-1 07:37:15.123456
+0.8;Jeg har hatt en god dag så langt! Føler meg produktiv og glad.;2023-03-2 08:40:44.123456
+0.4;Dagen har vært så som så. Litt stresset på jobben;2023-03-5 14:50:41.123456
+0.1;Jeg har hatt en forferdelig dag. Alt som kunne gå galt;2023-03-7 09:28:56.123456
+0.9;Alt går bra her! Jeg har akkurat fått en ny jobb og jeg gleder meg til å komme i gang.;2023-03-4 13:49:00.123456
+0.6;Jeg føler meg litt urolig i dag. Det er noe som plager meg;2023-03-3 10:06:54.123456
+0.3;Jeg har hatt en rolig dag så langt;2023-03-8 16:54:23.123456
+0.2;Jeg har hatt en veldig dårlig dag. Ting har ikke gått som planlagt og jeg føler meg stresset.;2023-03-1 13:44:03.123456
+0.7;Jeg føler meg veldig takknemlig for livet mitt akkurat nå. Jeg har gode venner og familie;2023-03-2 10:34:53.123456
+0.5;Jeg har hatt en travel dag på jobben;2023-03-4 08:25:38.123456
+0.4;Jeg har hatt en ganske grei dag så langt. Ikke så mye å klage på;2023-03-2 12:51:16.123456
+0.8;Jeg har det veldig bra i dag! Jeg har fått mye gjort og føler meg energisk.;2023-03-9 12:16:09.123456
+0.1;Jeg har hatt en forferdelig dag på jobben. Jeg føler meg overveldet og stresset.;2023-03-4 07:06:50.123456
+0.9;Jeg har hatt en fantastisk dag! Jeg har fått gode nyheter og føler meg lykkelig.;2023-03-8 17:41:50.123456
+0.6;Jeg føler meg litt lei og uinspirert i dag. Trenger å finne motivasjonen min igjen.;2023-03-2 15:07:38.123456
+0.2;Jeg har hatt en skikkelig dårlig dag. Alt føles feil og jeg vet ikke hva jeg skal gjøre.;2023-03-8 16:30:25.123456
+0.3;Jeg har hatt en stille dag hjemme. Det har vært fint å slappe av og ta det med ro.;2023-03-3 13:32:42.123456
+0.7;Jeg føler meg veldig optimistisk for tiden. Jeg har store planer og jeg tror de vil lykkes.;2023-03-7 07:29:38.123456
+0.5;Jeg har hatt en stressende dag på jobben;2023-03-6 12:52:52.123456
+0.8;Jeg føler meg veldig glad i dag. Livet er godt og jeg har mange grunner til å smile.;2023-03-1 16:26:46.123456
+0.1;Jeg har hatt en forferdelig dag på jobben. Jeg føler meg frustrert og overveldet.;2023-03-8 09:58:07.123456
+0.9;Jeg har hatt en fantastisk dag! Jeg har vært produktiv og fått mye gjort.;2023-03-9 08:20:56.123456
+0.6;Jeg føler meg litt trist i dag. Noen ting har skjedd som har påvirket meg.;2023-03-3 14:23:16.123456
+0.3;Jeg har hatt en rolig dag hjemme;2023-03-2 10:20:40.123456
+0.2;Jeg har hatt en veldig dårlig dag. Alt har;2023-03-8 17:47:29.123456
